@@ -10,4 +10,4 @@
 
 ### Output
 
-![output](Care.jpg)
+![output](Care.jpg.jpg)
