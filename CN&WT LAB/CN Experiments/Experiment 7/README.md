@@ -25,5 +25,5 @@ Step 9: Stop
 
 ### Output
 
-![output](DataEN.png)
+![output](DataED.png)
 
