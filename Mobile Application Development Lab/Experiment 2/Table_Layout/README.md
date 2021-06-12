@@ -4,4 +4,7 @@ Create a screen that has input boxes for User Name, Password, Address, Gender (r
 (c) Table Layout or Grid Layout
 
 ### Output
-![output](image name)
+![output](out1.jpg)
+![output](out2.jpg)
+![output](out3.jpg)
+![output](out4.jpg)
