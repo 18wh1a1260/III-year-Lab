@@ -5,3 +5,4 @@
 ## (a) Linear Layout
 
 ### Output
+![output](image name)
