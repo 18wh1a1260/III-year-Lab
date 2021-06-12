@@ -1,6 +1,7 @@
-1 a
-Create a screen that has input boxes for User Name, Password, Address, Gender (radio buttons for male and female), Age (numeric), Date of Birth (Date Picker), State(Spinner) and a Submit button. On clicking the submit button, print all the data below
+# 1a
 
-the Submit Button. Use
+## Create a screen that has input boxes for User Name, Password, Address, Gender (radio buttons for male and female), Age (numeric), Date of Birth (Date Picker), State(Spinner) and a Submit button. On clicking the submit button, print all the data below the Submit Button. Use
 
-(a) Linear Layout
+## (a) Linear Layout
+
+### Output
