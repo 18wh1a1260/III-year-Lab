@@ -12,3 +12,4 @@ An application that uses a menu with 3 options for dialing a number,opening a we
 ![output](SMS3.jpg)
 ![output](Browse1.jpg)
 ![output](Browse2.jpg)
+
